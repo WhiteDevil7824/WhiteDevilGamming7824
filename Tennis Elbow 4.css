@@ -1,0 +1,15 @@
+nav{
+    padding: 20px;
+    float: right;
+    background-color: maroon;
+}
+div{
+    padding: 10px;
+}
+button{
+    padding: 10;
+    margin-right: 20;
+    border-radius: 20;
+    font-style: italic;
+    background-color: black;
+}

@@ -1,0 +1,16 @@
+nav{
+    height: 30px;
+    float: none;
+    padding: 0px;
+}
+div{
+    padding: 20px;
+    height: 70px;
+}
+button{
+    padding: 20px;
+    margin-right: 520px;
+    margin-left: 540;
+    border-radius: 20px;
+    background-color: chartreuse;
+}

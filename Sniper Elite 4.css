@@ -1,0 +1,21 @@
+nav{
+    float: right;
+    padding: 30px;
+    background-color:khaki;
+}
+div{
+    float: right;
+    padding: 5px;
+}
+p{
+    padding: 20px;
+}
+h1{
+    padding: 20px;
+}
+button{
+    padding: 10px;
+    margin-left: 60px;
+    font-style: italic;
+    background-color: black;
+}

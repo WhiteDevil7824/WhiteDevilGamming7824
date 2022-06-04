@@ -1,0 +1,22 @@
+nav{
+    padding: 0px;
+    height: 0px;
+    float: none;
+}
+div{
+    padding: 170px;
+    float: none;
+}
+nav li{
+    padding: 400px;
+    float: none;
+    height: 20;
+    position: relative;
+    bottom: 400px;
+}
+button{
+    margin-left: 1100;
+    padding: 10;
+    font-style: italic;
+    background-color: black;
+}

@@ -1,0 +1,17 @@
+#head{
+    text-align: center;
+    box-sizing: border-box;
+    max-height: 230px;
+    background-color: black;
+}
+h3{
+    background-color: black;
+    max-height: 1300px;
+}
+button{
+    padding: 10px;
+    margin-right: -560;
+    margin-left: 580;
+    border-radius: 20;
+    background-color: cyan;
+}

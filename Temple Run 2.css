@@ -1,0 +1,19 @@
+h1{
+    padding: 20px;
+}
+nav{
+    float: right;
+    padding: 40px;
+    background-color: burlywood;
+}
+div{
+    float: left;
+}
+button{
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+    font-size: 20px;
+    border-radius: 10px;
+    font-style: italic;
+}

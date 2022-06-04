@@ -1,0 +1,33 @@
+ nav{
+     float: left; 
+     padding-left: 20px;
+     height: 250px;
+ }
+ div{
+     padding: 100px;
+     height: 0;
+     float: right;
+     background-color: yellow;
+ }
+ div li{
+     background-color: yellow;
+ }
+ img{
+     padding: 5px;
+ }
+ nav li{
+     float: right;
+ }
+ b{
+     float: right;
+     padding: 50px;
+     background-color: yellow;
+ }
+ button{
+     padding: 15px;
+     border-radius: 20px;
+     margin-left: 10px;
+     margin-right: 10px;
+     font-style: italic;
+     background-color: black;
+ }

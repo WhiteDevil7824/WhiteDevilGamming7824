@@ -1,0 +1,26 @@
+nav{
+    padding: 10px;
+    height: 100px;
+    float: none;
+    background-color: blue;
+}
+div{
+    float: right;
+    background-color: cornflowerblue;
+}
+nav li{
+    height: 400px;
+    background-color: cornflowerblue;
+}
+button{
+    padding: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin: auto;
+    float: right;
+    margin-left: 30;
+    background-color: black;
+}
+#container{
+    text-align: center;
+}

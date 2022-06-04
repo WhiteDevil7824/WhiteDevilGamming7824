@@ -1,0 +1,12 @@
+nav{
+    float: right;
+    padding: 70px;
+    background-color: brown;
+}
+button{
+    padding: 10px;
+    margin-right: 40px;
+    border-radius: 10px;
+    font-style: italic;
+    background-color: black;
+}

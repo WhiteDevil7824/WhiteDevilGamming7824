@@ -1,0 +1,10 @@
+nav{
+    float: right;
+    padding: 30px;
+    background-color: burlywood;
+}
+button{
+    padding: 10px;
+    background-color: black;
+    border-radius: 10px;
+}
